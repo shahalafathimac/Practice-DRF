@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'home2',
     'home3',
     'home4',
-    'home5',
+    'home5.apps.Home5Config',
 ]
 
 MIDDLEWARE = [
