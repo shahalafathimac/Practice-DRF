@@ -21,5 +21,6 @@ urlpatterns = [
     path('',include('home.urls')),
     path('home1/',include('home1.urls')),
     path('home2/',include('home2.urls')),
-    path('home3/',include('home3.urls'))
+    path('home3/',include('home3.urls')),
+    path('home4/',include('home4.urls')),
 ]
